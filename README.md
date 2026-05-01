@@ -53,6 +53,9 @@ Technologies
 - MQ135
 - DHT22
 - Machine learning
+  <img width="471" height="295" alt="mobile application" src="https://github.com/user-attachments/assets/cb503cb9-c031-4ce9-b38c-0babd9eafe9b" />
+
+
 
 ---
 
