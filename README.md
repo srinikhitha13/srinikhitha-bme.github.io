@@ -68,12 +68,25 @@ Methods
 - Image preprocessing
 - Lesion segmentation
 - Machine learning classification
+<img width="821" height="413" alt="image" src="https://github.com/user-attachments/assets/3cf237ef-9035-413e-a003-08e04c07d67c" />
+
+<img width="1493" height="561" alt="image" src="https://github.com/user-attachments/assets/05ac7b6b-eca0-485b-bf5a-ab7a2bb1164f" />
+
+
+
+  
 
 ---
 
 ### Smart device for snore detection and respiration rate measurement
 
 Designed a signal processing based system to monitor snoring patterns and respiration rate for sleep disorder detection.
+<img width="350" height="356" alt="image" src="https://github.com/user-attachments/assets/670f3d69-6a09-4586-82a0-a345e5811103" />
+
+<img width="386" height="304" alt="image" src="https://github.com/user-attachments/assets/f966dba9-4157-4428-bfed-47abe2f6de49" />
+
+
+
 
 ---
 ### Evaluation of Biomaterials for Dura Mater Repair and CSF Leak Prevention
